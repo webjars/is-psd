@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>is-psd</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.1</version>
     <name>is-psd</name>
     <description>WebJar for is-psd</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/is-psd</url>
         <connection>scm:git:https://github.com/webjars/is-psd.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/is-psd.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>is-psd-0.1.1</tag>
     </scm>
 
     <developers>
